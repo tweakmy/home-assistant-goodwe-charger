@@ -1,0 +1,8 @@
+{
+  "domain": "goodwe_charger",
+  "name": "GoodWe Charger",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": ["aiohttp"],
+  "iot_class": "cloud_polling"
+}
